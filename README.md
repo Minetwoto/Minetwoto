@@ -1,6 +1,6 @@
 ## OI👋
 
-##Redes Sociais
+Redes Sociais
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mine2tto@exemplo.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/minetwoto)
